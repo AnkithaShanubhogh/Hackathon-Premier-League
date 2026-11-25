@@ -9,9 +9,8 @@ The system helps municipalities explore waste-generation trends, evaluate infras
 SWMS was developed as a **team project for the HPL Hackathon 2026**.
 
 The project team consisted of:
-
-- **Yuktha S. Mayya**
 - **Ankitha Shanubhogh**
+- **Yuktha S. Mayya**
 - **Sanjana Desai**
 - **Shravya**
 - **Shreekala Naik**

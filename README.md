@@ -1,5 +1,5 @@
 # Smart Waste Management Simulator (SWMS)
-
+https://6b09b69abbd197bd0b544933--superlative-pavlova-a6ce96.netlify.app
 Smart Waste Management Simulator (SWMS) is a full-stack planning and decision-support platform for municipal solid-waste management. It combines structured habitation data, configurable municipal parameters, GIS mapping, long-term simulations, scenario analysis, and operational planning tools in one application.
 
 The system helps municipalities explore waste-generation trends, evaluate infrastructure and collection strategies, compare disruption scenarios, and make better-informed planning decisions.
